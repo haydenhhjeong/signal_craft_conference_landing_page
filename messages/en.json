@@ -1,0 +1,376 @@
+{
+    "Index": {
+        "title": "The Sound Knows\nBefore the Machine Stops",
+        "subtitle": "Reduce unplanned downtime by 85% with AI-powered acoustic monitoring.\nSimple installation, immediate results for smart factories.",
+        "cta": "Request a Meeting",
+        "loading": "Initializing Visualizer..."
+    },
+    "Hero": {
+        "stats": {
+            "downtime": "Downtime Reduction",
+            "accuracy": "Anomaly Detection",
+            "monitoring": "24/7 Monitoring"
+        }
+    },
+    "Header": {
+        "nav": {
+            "about": "About",
+            "whyUs": "Why Us",
+            "guide": "Guide",
+            "cases": "Cases",
+            "news": "News",
+            "contact": "Contact",
+            "language": "Language"
+        }
+    },
+    "News": {
+        "title": "Latest Updates",
+        "title_page": "Newsroom",
+        "description": "Stay tuned with SignalCraft's journey.",
+        "description_page": "Latest updates, press releases, and technical insights from the SignalCraft team.",
+        "search_placeholder": "Search articles...",
+        "load_more": "Load More Articles",
+        "filters": {
+            "all": "All",
+            "press": "Press",
+            "tech": "Technology",
+            "case": "Case Study",
+            "event": "Event"
+        },
+        "viewAll": "View Newsroom",
+        "readMore": "Read More",
+        "items": {
+            "item1": {
+                "tag": "Milestone",
+                "title": "Selected for KOIIA AC Batch 1",
+                "excerpt": "SignalCraft has been selected for the 1st batch of the TIPS-linked Accelerator program by the Korea Industrial Intelligence Association (KOIIA)."
+            },
+            "item2": {
+                "tag": "Technology",
+                "title": "Acoustic Edge AI v2.0 Released",
+                "excerpt": "New version improves anomaly detection accuracy by 45% in noisy environments."
+            },
+            "item3": {
+                "tag": "Event",
+                "title": "Global Manufacturing Summit 2024",
+                "excerpt": "Showcasing our real-time diagnosis solutions at the industry's largest event."
+            },
+            "item4": {
+                "tag": "Press",
+                "title": "SignalCraft raises Series A to expand Edge AI solutions",
+                "excerpt": "We are thrilled to announce our latest funding round led by Major Tech Ventures to accelerate our smart factory innovations."
+            },
+            "item5": {
+                "tag": "Technology",
+                "title": "Understanding FFT vs Wavelet Transform",
+                "excerpt": "A technical deep dive into how we preprocess audio signals for maximum anomaly detection accuracy."
+            }
+        }
+    },
+    "WhyUs": {
+        "title": "Why SignalCraft?",
+        "description": "The most reliable predictive maintenance solution, trusted by global industry leaders.",
+        "learnMore": "Learn more",
+        "features": {
+            "precision": {
+                "title": "Detect Failures Weeks Early",
+                "description": "From micro-fractures in bearings to abnormal wear in gearboxes, we analyze ultrasonic frequencies beyond human hearing to detect signs of failure 2-4 weeks in advance. This prevents massive equipment costs and unplanned shutdowns."
+            },
+            "edge": {
+                "title": "Self-Contained Edge AI",
+                "description": "Secure, real-time analysis without cloud dependency. Your data stays safe within your facility."
+            },
+            "nonInvasive": {
+                "title": "Zero-Downtime Setup",
+                "description": "Deploy in seconds with non-invasive magnetic sensors. No production stops required."
+            },
+            "scalability": {
+                "title": "Seamless Scalability",
+                "description": "Easily expand from a single machine to an entire plant via wireless networks. Integrates perfectly with existing ERP/MES systems."
+            }
+        },
+        "detail": {
+            "title": "The Technological Edge",
+            "subtitle": "Discover the innovation that sets SignalCraft apart from traditional monitoring.",
+            "beyondTitle": "Beyond Human Hearing",
+            "beyondDesc": "Mechanical friction creates ultrasonic waves (20kHz+) long before visible vibration damages occur. SignalCraft's sensors capture this early warning signal, giving you weeks of lead time instead of hours.",
+            "edgeTitle": "Real-time Edge Processing",
+            "edgeDesc": "We don't just send raw data to the cloud. Our proprietary neural engine runs directly on the gateway, filtering out background noise and extracting key insights. This ensures ultra-low latency and maximum data security.",
+            "specs": {
+                "title": "Technical Specifications",
+                "range": "Frequency Range",
+                "rate": "Sampling Rate",
+                "conn": "Connectivity",
+                "battery": "Battery Life"
+            }
+        }
+    },
+    "Guide": {
+        "title": "Installation in 5 Minutes",
+        "description": "Zero downtime. Zero complex wiring. Just plug, play, and predict.",
+        "steps": {
+            "attach": {
+                "title": "1. Attach Sensor",
+                "description": "Simply attach the magnetic acoustic sensor to your equipment. No shutdown required."
+            },
+            "connect": {
+                "title": "2. Auto-Connect",
+                "description": "The Edge Gateway automatically pairs and begins secure data transmission immediately."
+            },
+            "appInstall": {
+                "title": "3. App & Device Setup",
+                "description": "Our engineer visits to map your Device ID and helps you install the management app."
+            },
+            "insight": {
+                "title": "4. Real-time Insight",
+                "description": "Access the dashboard to see live acoustic fingerprints and receive anomaly alerts."
+            }
+        },
+        "viewFull": "View Detailed Guide",
+        "detail": {
+            "title": "Detailed Installation Guide",
+            "subtitle": "From hardware setup to mobile app integration, here's how to get started.",
+            "hardware": {
+                "title": "Hardware Installation",
+                "step1": "Attach the magnetic sensor to the flattest part of the compressor or motor.",
+                "step2": "Plug in the Edge Gateway and wait for the Wi-Fi icon to turn green.",
+                "step3": "The status LED will blink once data is being transmitted successfully."
+            },
+            "app": {
+                "title": "App Installation & Setup",
+                "description": "Our field engineer will register your Device ID to the system and guide you through the mobile app installation.",
+                "features": {
+                    "monitoring": "Remote Monitoring",
+                    "notifications": "Instant Anomaly Alerts",
+                    "reports": "Daily/Weekly Reports"
+                },
+                "secured": "On-site Secured Access",
+                "mapping": "Engineer mapping Device ID to system"
+            },
+            "placeholder": {
+                "video": "Installation video coming soon",
+                "image": "Installation guide images coming soon",
+                "tutorials": "Tutorials"
+            },
+            "support": {
+                "title": "Need help with installation?",
+                "description": "Our support team is available 24/7 to guide you through the process.",
+                "cta": "Contact Support"
+            }
+        }
+    },
+    "Cases": {
+        "title": "Proven Impact",
+        "description": "See how industry leaders secure their operations.",
+        "viewAll": "View All Cases",
+        "result": "Result",
+        "stories": {
+            "case1": {
+                "client": "H-Mart Logistics",
+                "industry": "Logistics Automation",
+                "title": "Preventing Conveyor Motor Failure",
+                "result": "Reduced downtime by 85%"
+            },
+            "case2": {
+                "client": "P-Chemical",
+                "industry": "Petrochemical Processing",
+                "title": "Leak Detection in High-Pressure Valves",
+                "result": "Saved $2.5M in potential damages"
+            },
+            "case3": {
+                "client": "T-Energy",
+                "industry": "Wind Power Generation",
+                "title": "Turbine Gearbox Diagnostics",
+                "result": "Extended asset life by 3 years"
+            }
+        }
+    },
+    "Contact": {
+        "title": "Get in <span>Touch</span>",
+        "description": "Join 50+ smart factories saving millions in downtime costs. Start your free acoustic diagnosis today.",
+        "cta": "Get Started Now",
+        "sales": "Request a Meeting",
+        "info": {
+            "title": "Contact Information",
+            "address": {
+                "label": "Headquarters",
+                "value": "3F, 25-11, Seongji-gil, Mapo-gu\nSeoul, Republic of Korea"
+            },
+            "email": {
+                "label": "Email Us",
+                "value": "sndercer@gmail.com"
+            },
+            "phone": {
+                "label": "Call Us",
+                "value": "+82 10-8533-6898",
+                "sub": "Mon-Fri from 9am to 6pm KST"
+            },
+            "ceo": {
+                "label": "CEO",
+                "value": "Kim Seon-beom"
+            }
+        },
+        "form": {
+            "title": "Send us a Message",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email Address",
+            "reason": "Reason for Contact",
+            "message": "Message",
+            "submit": "Send Message",
+            "placeholder": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "john@company.com",
+                "message": "Tell us about your project or needs...",
+                "reasons": {
+                    "demo": "Request Demo",
+                    "sales": "Sales Inquiry",
+                    "support": "Technical Support",
+                    "partner": "Partnership"
+                }
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "q1": {
+                "q": "Can I test before buying?",
+                "a": "Yes! We offer a 2-week pilot program for qualified enterprise clients."
+            },
+            "q2": {
+                "q": "Does it work offline?",
+                "a": "Our Edge AI models run locally on the device, so you don't need constant internet connection for detection."
+            }
+        }
+    },
+    "Footer": {
+        "sitemap": "Sitemap",
+        "contact": "Contact",
+        "mission": "Sound to Insight.",
+        "description": "Revolutionizing smart factory monitoring with AI audio analysis.",
+        "links": {
+            "about": "About",
+            "technology": "Technology",
+            "cases": "Cases",
+            "news": "News",
+            "guide": "Installation Guide"
+        },
+        "contactUs": "Contact Us",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    },
+    "FAQ": {
+        "title": "Frequently Asked Questions",
+        "questions": {
+            "installation": {
+                "q": "Do I need to stop production to install?",
+                "a": "No. Our magnetic sensors attach to the exterior of your equipment in seconds. No drilling or wiring is required, allowing for zero-downtime deployment."
+            },
+            "accuracy": {
+                "q": "How accurate is the diagnostic AI?",
+                "a": "SignalCraft maintains 99% + accuracy. Our models specifically filter for high-frequency acoustic signatures of failure, ignoring common background factory noise."
+            },
+            "security": {
+                "q": "Is my factory data secure?",
+                "a": "Yes. All audio analysis is performed on-site at the edge. Only processed diagnostic results are sent to the dashboard, ensuring raw audio never leaves your facility."
+            },
+            "environment": {
+                "q": "Does it work in high-noise environments?",
+                "a": "Absolutely. By focusing on ultrasonic frequencies physically separate from common industrial noise, we detect machine health regardless of ambient sound levels."
+            }
+        }
+    },
+    "About": {
+        "mission": "OUR MISSION",
+        "vision": "We listen to the future of business through the <br></br><heartbeat>heartbeat of machines</heartbeat>.",
+        "description": "SignalCraft is setting the standard for Predictive Maintenance solutions by analyzing sound and vibration data from industrial sites using artificial intelligence to detect minute machine faults in advance.",
+        "hero": {
+            "title": "Until the silent machine starts to speak",
+            "subtitle": "We read the invisible flows, see the unheard signals, and prevent accidents before they happen."
+        },
+        "journey": {
+            "title": "Acoustic Journey",
+            "milestones": {
+                "2025": {
+                    "year": "2025",
+                    "title": "SignalCraft Founded",
+                    "desc": "Completed prototype development of an acoustic analysis-based AI engine."
+                },
+                "2026": {
+                    "year": "2026",
+                    "title": "National Industrial Cluster Network",
+                    "desc": "Established partnerships and completed technical validation across major industrial hubs in Seoul, Jeonnam, and Busan."
+                },
+                "2027": {
+                    "year": "2027",
+                    "title": "Global Standard",
+                    "desc": "Becoming the global standard for industrial AI diagnostic solutions."
+                }
+            }
+        },
+        "global": {
+            "title": "National Partner Network",
+            "subtitle": "SignalCraft's ecosystem connecting major domestic industrial hubs.",
+            "description": "From data intelligence in Seoul to manufacturing sites in Jeonnam and Busan, we protect Korea's industrial infrastructure."
+        },
+        "magi": {
+            "title": "MAGI Engine",
+            "subtitle": "The Core of SignalCraft: Ultra-precision Multi-sensory Analysis",
+            "features": {
+                "electric": {
+                    "title": "Power Quality Analysis",
+                    "desc": "Calculates component wear in % by analyzing fine electrical noise."
+                },
+                "sound": {
+                    "title": "Acoustic Analysis",
+                    "desc": "AI monitors ultrasonic ranges in real-time that are beyond human hearing."
+                },
+                "vibration": {
+                    "title": "3-Axis Vibration Analysis",
+                    "desc": "Captures mechanical imbalances and bearing defects without error within 0.01mm."
+                }
+            }
+        },
+        "values": {
+            "title": "Core Values",
+            "list": {
+                "precision": "<strong>Precision:</strong> Perfectionists who never miss a 0.1% error.",
+                "edge": "<strong>Edge:</strong> Low-latency intelligent solutions computed instantly on-site.",
+                "human": "<strong>Human-Centric:</strong> Technology that prioritizes the safety of engineers."
+            }
+        },
+        "team": {
+            "title": "The Craftsmen",
+            "preparing": "Coming soon",
+            "members": {
+                "ceo": {
+                    "name": "Alex Kim",
+                    "role": "Chief Executive Officer",
+                    "bio": "MIT graduate, over 15 years expert in IoT security and industrial AI.",
+                    "email": "ceo@signalcraft.kr"
+                },
+                "cto": {
+                    "name": "Sarah Park",
+                    "role": "Chief Technology Officer",
+                    "bio": "Ph.D. from KAIST, authority in acoustic recognition algorithm design.",
+                    "email": "cto@signalcraft.kr"
+                },
+                "hw": {
+                    "name": "David Lee",
+                    "role": "Hardware Lead",
+                    "bio": "10 years experience in cutting-edge industrial sensor hardware design.",
+                    "email": "hw@signalcraft.kr"
+                }
+            }
+        },
+        "stats": {
+            "factories": "Partners",
+            "accuracy": "Detection Accuracy",
+            "data": "Data Analyzed"
+        },
+        "trustedBy": "Global Partners"
+    },
+    "Floating": {
+        "meeting": "Request a Meeting"
+    }
+}

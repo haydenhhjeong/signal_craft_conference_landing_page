@@ -1,0 +1,358 @@
+{
+    "Index": {
+        "title": "기계가 멈추기 전\n소리가 먼저 알려줍니다",
+        "subtitle": "온디바이스 AI로 다운타임을 85%까지 줄입니다\n가동 중단 없는 설치, 시그널크래프트가 함께합니다",
+        "cta": "현장 미팅하기",
+        "loading": "비주얼라이저 초기화 중..."
+    },
+    "Hero": {
+        "stats": {
+            "downtime": "가동 중단 감소",
+            "accuracy": "이상 징후 감지 정확도",
+            "monitoring": "24/7 실시간 모니터링"
+        }
+    },
+    "Header": {
+        "nav": {
+            "about": "About",
+            "whyUs": "WhyUs",
+            "guide": "Guide",
+            "cases": "Cases",
+            "news": "News",
+            "contact": "Contact",
+            "language": "언어"
+        }
+    },
+    "News": {
+        "title": "Signalcraft News",
+        "title_page": "Newsroom",
+        "description": "시그널크래프트의 최신 소식을 확인하세요.",
+        "description_page": "시그널크래프트 팀의 최신 업데이트, 보도 자료 및 기술 인사이트를 만나보세요.",
+        "search_placeholder": "기사 검색...",
+        "load_more": "기사 더 불러오기",
+        "filters": {
+            "all": "전체",
+            "press": "보도자료",
+            "tech": "기술",
+            "case": "사례",
+            "event": "이벤트"
+        },
+        "viewAll": "더 보기",
+        "readMore": "더 보기",
+        "items": {
+            "item1": {
+                "tag": "마일스톤",
+                "title": "KOIIA AC 배치 1기 선정",
+                "excerpt": "산업통상자원부 산하 한국산업지능화협회(KOIIA)의 팁스(TIPS) 연계 창업기획자 배치 프로그램 1기에 선정되었습니다."
+            },
+            "item2": {
+                "tag": "기술력",
+                "title": "준비 중 입니다",
+                "excerpt": "준비 중 입니다 "
+            },
+            "item3": {
+                "tag": "이벤트",
+                "title": "준비 중 입니다",
+                "excerpt": "준비 중 입니다 "
+            },
+            "item4": {
+                "tag": "보도자료",
+                "title": "준비 중 입니다",
+                "excerpt": "준비 중 입니다 "
+            },
+            "item5": {
+                "tag": "기술력",
+                "title": "준비 중 입니다",
+                "excerpt": "준비 중 입니다 "
+            }
+        }
+    },
+    "WhyUs": {
+        "title": "Why SignalCraft?",
+        "description": "글로벌 제조 기업들이 신뢰하는 가장 확실한 예지 보전 솔루션입니다.",
+        "learnMore": "더 알아보기",
+        "features": {
+            "precision": {
+                "title": "고장 징후 감지",
+                "description": "인간의 귀로 들을 수 없는 초음파를 분석하여 고장 발생 수주 전에 이상 징후를 감지합니다. 비계획 가동 중단을 사전에 방지하고 설비 수명을 보호합니다."
+            },
+            "edge": {
+                "title": "보안이 철저한 엣지 AI",
+                "description": "클라우드 지연 없는 실시간 분석. 데이터가 외부로 유출되지 않아 보안이 매우 강력합니다."
+            },
+            "nonInvasive": {
+                "title": "중단 없는 즉각 설치",
+                "description": "작업을 멈추지 않고 마그네틱 센서로 수 초 만에 설치가 완료됩니다."
+            },
+            "scalability": {
+                "title": "유연한 확장성",
+                "description": "단일 설비부터 대규모 공장까지 무선으로 손쉽게 확장 가능합니다. 기존 인프라 및 ERP 시스템과도 완벽하게 통합됩니다."
+            }
+        },
+        "detail": {
+            "title": "Why SignalCraft?",
+            "subtitle": "기존의 진동 분석 방식을 뛰어넘는 혁신적인 기술력을 소개합니다.",
+            "beyondTitle": "인간의 청력을 넘어선 감지",
+            "beyondDesc": "기계적 마찰은 눈에 보이는 진동이나 고장이 발생하기 훨씬 전부터 초음파(20kHz 이상)를 발생시킵니다. 시그널크래프트의 센서는 이 초기 경고 신호를 포착하여, 몇 시간이 아닌 몇 주의 대비 시간을 제공합니다.",
+            "edgeTitle": "엣지(Edge)에서의 실시간 처리",
+            "edgeDesc": "우리는 단순히 로우 데이터를 클라우드로 전송하지 않습니다. 당사의 독자적인 신경망 엔진이 게이트웨이 내에서 직접 구동되어 주변 소음을 필터링하고 핵심 인사이트만 추출합니다. 이는 낮은 대역폭 비용과 강력한 보안을 의미합니다.",
+            "specs": {
+                "title": "기술 사양",
+                "range": "주파수 범위",
+                "rate": "샘플링 속도",
+                "conn": "연결성",
+                "battery": "배터리 수명"
+            }
+        }
+    },
+    "Guide": {
+        "title": "단 5분이면 충분합니다",
+        "description": "가동 중단 제로. 복잡한 배선 제로. 연결하고, 바로 예측하세요.",
+        "steps": {
+            "attach": {
+                "title": "1. 센서 부착",
+                "description": "마그네틱 초음파 센서를 설비에 부착하세요. 장비를 멈출 필요가 없습니다."
+            },
+            "connect": {
+                "title": "2. 자동 연결",
+                "description": "엣지 게이트웨이가 자동으로 연결되어 즉시 보안 데이터 전송을 시작합니다."
+            },
+            "appInstall": {
+                "title": "3. 앱 및 기기 등록",
+                "description": "설치 기사가 방문하여 기기 ID와 매장을 연결해주며, 전용 관리 앱 설치를 도와드립니다."
+            },
+            "insight": {
+                "title": "4. 실시간 인사이트",
+                "description": "대시보드에서 실시간 음향 지문을 확인하고 이상 징후 알림을 받으세요."
+            }
+        },
+        "viewFull": "설치 가이드 상세 보기",
+        "detail": {
+            "title": "상세 설치 가이드",
+            "subtitle": "하드웨어 설치부터 전용 관리 앱 연동까지, 시그널크래프트의 시작을 안내합니다.",
+            "hardware": {
+                "title": "하드웨어 설치",
+                "step1": "마그네틱 센서를 컴프레서나 모터의 가장 평평한 부분에 부착하세요.",
+                "step2": "엣지 게이트웨이를 전원에 연결하고 Wi-Fi 아이콘이 초록색으로 변하는지 확인하세요.",
+                "step3": "데이터가 정상적으로 전송되면 게이트웨이의 상태 표시등이 깜빡입니다."
+            },
+            "app": {
+                "title": "관리 앱 설치 및 계정 연동",
+                "description": "현장 방문 설치 기사가 고객님의 기기 ID를 시스템에 등록해주며, 스마트폰에 관리 앱 설치를 도와드립니다.",
+                "features": {
+                    "monitoring": "어디서나 기기 상태 확인",
+                    "notifications": "이상 징후 즉시 알림",
+                    "reports": "일간/주간 리포트 제공"
+                },
+                "secured": "현장 전용 보안 접근",
+                "mapping": "설치 기사가 기기 ID를 시스템에 매핑 중"
+            },
+            "placeholder": {
+                "video": "설치 가이드 영상 준비 중",
+                "image": "설치 예시 이미지 준비 중",
+                "tutorials": "튜토리얼"
+            },
+            "support": {
+                "title": "설치가 어려우신가요?",
+                "description": "시그널크래프트 지원팀은 설치 과정을 돕기 위해 24시간 대기하고 있습니다.",
+                "cta": "고객지원 문의"
+            }
+        }
+    },
+    "Cases": {
+        "title": "설치 사례",
+        "description": "업계 리더들이 어떻게 작업을 보호하고 있는지 확인해 보세요.",
+        "viewAll": "전체 사례 보기",
+        "result": "결과",
+        "stories": {
+            "case1": {
+                "client": "H-마트 물류",
+                "industry": "물류 자동화",
+                "title": "컨베이어 모터 고장 방지",
+                "result": "다운타임 85% 감소"
+            },
+            "case2": {
+                "client": "P-케미컬",
+                "industry": "석유화학 공정",
+                "title": "고압 밸브 누출 감지",
+                "result": "250만 달러 상당의 손실 절감"
+            },
+            "case3": {
+                "client": "T-에너지",
+                "industry": "풍력 발전",
+                "title": "터빈 기어박스 진단",
+                "result": "자산 수명 3년 연장"
+            }
+        }
+    },
+    "Contact": {
+        "title": "지금 바로 <span>상담해보세요</span>",
+        "description": "50개 이상의 스마트 팩토리가 다운타임 비용을 85% 이상 절감하고 있습니다.",
+        "cta": "지금 시작하기",
+        "sales": "현장 미팅하기",
+        "info": {
+            "title": "연락처 정보",
+            "address": {
+                "label": "본사 주소",
+                "value": "서울시 마포구 성지길 25-11 3층"
+            },
+            "email": {
+                "label": "이메일 문의",
+                "value": "sndercer@gmail.com"
+            },
+            "phone": {
+                "label": "전화 문의",
+                "value": "010-8533-6898",
+                "sub": "평일 오전 9시 - 오후 6시"
+            },
+            "ceo": {
+                "label": "대표",
+                "value": "김선범"
+            }
+        },
+        "form": {
+            "title": "메시지 보내기",
+            "firstName": "성",
+            "lastName": "이름",
+            "email": "이메일 주소",
+            "reason": "문의 유형",
+            "message": "메시지 내용",
+            "submit": "메시지 전송",
+            "placeholder": {
+                "firstName": "홍",
+                "lastName": "길동",
+                "email": "name@company.com",
+                "message": "프로젝트나 필요하신 사항에 대해 알려주세요...",
+                "reasons": {
+                    "demo": "데모 요청",
+                    "sales": "영업 문의",
+                    "support": "기술 지원",
+                    "partner": "파트너십"
+                }
+            }
+        },
+        "faq": {
+            "title": "자주 묻는 질문",
+            "q1": {
+                "q": "구매 전 테스트가 가능한가요?",
+                "a": "네! 자격을 갖춘 기업 고객을 대상으로 2주간의 파일럿 프로그램을 제공합니다."
+            },
+            "q2": {
+                "q": "오프라인에서도 작동하나요?",
+                "a": "당사의 엣지 AI 모델은 장치 내에서 로컬로 구동되므로, 감지를 위해 지속적인 인터넷 연결이 필요하지 않습니다."
+            }
+        }
+    },
+    "Footer": {
+        "sitemap": "사이트맵",
+        "contact": "문의",
+        "mission": "Sound to Insight.",
+        "description": "AI 음향 분석으로 스마트 팩토리 모니터링의 혁신을 선도합니다.",
+        "links": {
+            "about": "소개",
+            "technology": "기술",
+            "cases": "사례",
+            "news": "소식",
+            "guide": "설치 가이드"
+        },
+        "contactUs": "문의하기",
+        "privacy": "개인정보처리방침",
+        "terms": "이용약관"
+    },
+    "FAQ": {
+        "title": "자주 묻는 질문",
+        "questions": {
+            "installation": {
+                "q": "설치를 위해 가동을 중단해야 하나요?",
+                "a": "아니요. 마그네틱 센서를 설비 외부에 부착하기만 하면 됩니다. 배선이나 드릴링 작업이 필요 없으므로 생산 라인을 멈추지 않고 즉시 도입할 수 있습니다."
+            },
+            "accuracy": {
+                "q": "진단 정확도는 어느 정도인가요?",
+                "a": "시그널크래프트는 99% 이상의 고장 진단 정확도를 자랑합니다. AI 모델이 공장의 복합적인 소음에서 기계 수명과 결합된 특정 고주파 신호만을 정밀하게 필터링합니다."
+            },
+            "security": {
+                "q": "공장 내부 데이터 보안은 안전한가요?",
+                "a": "네, 매우 안전합니다. 모든 음향 분석은 로컬 엣지 디바이스 내에서 처리됩니다. 분석된 결과 데이터만 대시보드로 전송되므로 원본 음원 데이터는 기업 외부로 절대 유출되지 않습니다."
+            },
+            "environment": {
+                "q": "소음이 매우 심한 환경에서도 작동하나요?",
+                "a": "물론입니다. 당사 센서는 일반적인 공장 소음(저주파)과 물리적으로 분리된 초음파 영역을 집중적으로 분석하므로, 주변 소음의 영향을 받지 않고 오직 설비상태만 정확히 진단합니다."
+            }
+        }
+    },
+    "About": {
+        "mission": "OUR MISSION",
+        "vision": "<heartbeat>손실은 최소로</heartbeat><br></br>생산성은 최대로",
+        "description": "시그널크래프트는 소리와 진동 데이터를 인공지능으로 분석하여 기계의 미세한 결함을 사전에 탐지하는 Predictive Maintenance 솔루션의 표준을 만들어갑니다.",
+        "hero": {
+            "title": "SignalCraft",
+            "subtitle": "우리는 들리지 않는 신호를 보며 사고를 미연에 방지합니다."
+        },
+        "journey": {
+            "title": "Our Journey",
+            "milestones": {
+                "2025": {
+                    "year": "2025",
+                    "title": "시그널크래프트 설립",
+                    "desc": "음향 분석 기반 AI 엔진 프로토타입 개발 완료"
+                },
+                "2026": {
+                    "year": "2026",
+                    "title": "전국 산업 클러스터 네트워크 구축",
+                    "desc": "서울·전남·부산 등 전국 주요 산업 거점 파트너십 체결 및 기술 검증 완료"
+                },
+                "2027": {
+                    "year": "2027",
+                    "title": "글로벌 시장의 표준",
+                    "desc": "산업용 AI 진단 솔루션의 글로벌 표준으로 도약"
+                }
+            }
+        },
+        "global": {
+            "title": "National Partner Network",
+            "subtitle": "시그널크래프트의 파트너 생태계",
+            "description": "서울의 데이터 지능부터 전남과 부산의 제조 현장까지, 대한민국 산업 인프라를 보호합니다."
+        },
+        "values": {
+            "title": "Core Values",
+            "list": {
+                "precision": "<strong>정밀함:</strong> 보이지 않는 0.1%의 오차도 놓치지 않는 완벽주의.",
+                "edge": "<strong>엣지:</strong> 현장에서 즉시 연산되는 저지연 지능형 솔루션.",
+                "human": "<strong>인간 중심:</strong> 엔지니어의 안전을 최우선으로 생각하는 기술."
+            }
+        },
+        "team": {
+            "title": "The Craftsmen",
+            "preparing": "준비 중입니다",
+            "members": {
+                "ceo": {
+                    "name": "준비 중입니다 ",
+                    "role": "준비 중입니다 ",
+                    "bio": "준비 중입니다 ",
+                    "email": "준비 중입니다 "
+                },
+                "cto": {
+                    "name": "준비 중입니다 ",
+                    "role": "준비 중입니다 ",
+                    "bio": "준비 중입니다 ",
+                    "email": "준비 중입니다 "
+                },
+                "hw": {
+                    "name": "준비 중입니다 ",
+                    "role": "준비 중입니다 ",
+                    "bio": "준비 중입니다 ",
+                    "email": "준비 중입니다 "
+                }
+            }
+        },
+        "stats": {
+            "factories": "협력 공장",
+            "accuracy": "탐지 정확도",
+            "data": "분석 데이터건수"
+        },
+        "trustedBy": "글로벌 파트너"
+    },
+    "Floating": {
+        "meeting": "현장 미팅하기"
+    }
+}
